@@ -1,6 +1,10 @@
 [
   {
     "name": "default",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/PapillonApp/datasets/refs/heads/main/illustrations/images/default.jpg"
+  },
+  {
+    "name": "cockpit",
+    "image": "https://raw.githubusercontent.com/PapillonApp/datasets/refs/heads/main/illustrations/images/cockpit.jpg"
   }
 ]
