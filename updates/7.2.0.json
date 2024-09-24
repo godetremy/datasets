@@ -8,10 +8,7 @@
       {
         "title": "Les cours annulés sont désormais plus visibles",
         "subtitle": "Lorsque le cours est annulé ou que le prof est absent, l’en-tête se colore en rouge",
-        "image": "https://i.ibb.co/pR6mmxg/image.png",
-        "navigation": "Schedule",
-        "href": null,
-        "button": "Voir en action !"
+        "image": "https://i.ibb.co/pR6mmxg/image.png"
       },
       {
         "title": "Le widget 'prochain cours' devient plus puissant",
