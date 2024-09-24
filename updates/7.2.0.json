@@ -8,57 +8,34 @@
       {
         "title": "Les cours annulés sont désormais plus visibles",
         "subtitle": "Lorsque le cours est annulé ou que le prof est absent, l’en-tête se colore en rouge",
-        "image": "https://i.ibb.co/pR6mmxg/image.png"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-3.png"
       },
       {
         "title": "Le widget 'prochain cours' devient plus puissant",
         "subtitle": "Il saute les cours annulés et affiche le temps exact restant avant le prochain cours",
-        "image": "https://i.ibb.co/pR6mmxg/image.png",
-        "navigation": "NextCourseWidget",
-        "href": null,
-        "button": "Essayer !"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-4.png"
       },
       {
         "title": "Un dark mode, sans même ouvrir l’app",
         "subtitle": "Les utilisateurs d’iOS 18 profitent des nouvelles icônes sombres et tintées",
-        "image": "https://i.ibb.co/pR6mmxg/image.png",
-        "navigation": "DarkMode",
-        "href": null,
-        "button": "Activer !"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-5.png"
       },
       {
         "title": "Les devoirs font peau neuve",
         "subtitle": "Nouvelle interface fluide avec prise en charge des liens, pièces-jointes et devoirs à rendre",
-        "image": "https://i.ibb.co/pR6mmxg/image.png",
-        "navigation": "Homeworks",
-        "href": null,
-        "button": "Essayer !"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-6.png"
       },
       {
         "title": "Nouveau widget : Dernière note",
         "subtitle": "Soyez le premier au courant de vos notes avec ce nouveau widget",
-        "image": "https://i.ibb.co/pR6mmxg/image.png",
-        "navigation": "LatestGradeWidget",
-        "href": null,
-        "button": "Ajouter !"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-7.png"
       }
     ],
     "bugfixes": [
       {
         "title": "Meilleure stabilité sur l’emploi du temps",
         "subtitle": "L’emploi du temps a été revu pour profiter des mises à jour de performances",
-        "image": "https://i.ibb.co/pR6mmxg/image.png",
-        "navigation": "Schedule",
-        "href": null,
-        "button": "Voir les détails"
-      },
-      {
-        "title": "Nouvelle interface pour les devoirs",
-        "subtitle": "Sous-titre de fonctionnalité...",
-        "image": "https://i.ibb.co/pR6mmxg/image.png",
-        "navigation": "Homeworks",
-        "href": null,
-        "button": "Essayer !"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-8.png"
       }
     ]
   }
