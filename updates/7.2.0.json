@@ -1,40 +1,40 @@
 {
     "version": "7.2.0",
     "title": "Version 7.2.0",
-    "subtitle": "Découvrez les nouveautés !",
+    "subtitle": "Découvrez les nouveautés et améliorations !",
     "illustration": "https://i.ibb.co/XD53HRz/image.png",
-    "description": "Nouvelles fonctionnalités et améliorations.",
+    "description": "Nouvelles fonctionnalités, meilleure stabilité et performances améliorées.",
     "features": [
       {
         "title": "Visibilité des cours annulés",
-        "subtitle": "Les cours annulés apparaissent en rouge.",
+        "subtitle": "Les cours annulés ou prof absent sont affichés en rouge.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-3.png"
       },
       {
-        "title": "Widget 'Prochain cours' amélioré",
-        "subtitle": "Saute les cours annulés, affiche le temps restant.",
+        "title": "Amélioration du widget 'Prochain cours'",
+        "subtitle": "Ignore les cours annulés et affiche le temps restant précis.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-4.png"
       },
       {
         "title": "Dark mode automatique",
-        "subtitle": "Nouvelles icônes sombres pour iOS 18.",
+        "subtitle": "Mode sombre activé automatiquement avec de nouvelles icônes pour iOS 18.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-5.png"
       },
       {
         "title": "Nouvelle interface des devoirs",
-        "subtitle": "Liens, pièces-jointes et rendu des devoirs supportés.",
+        "subtitle": "Interface fluide, prend en charge les liens, pièces jointes et rendus.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-6.png"
       },
       {
-        "title": "Widget 'Dernière note'",
-        "subtitle": "Suivez vos dernières notes en un coup d'œil.",
+        "title": "Nouveau widget : Dernière note",
+        "subtitle": "Consultez rapidement vos dernières notes directement depuis l'écran d'accueil.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-7.png"
       }
     ],
     "bugfixes": [
       {
         "title": "Amélioration de l'emploi du temps",
-        "subtitle": "Stabilité et performances améliorées.",
+        "subtitle": "Meilleure stabilité et performances améliorées pour l'emploi du temps.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-8.png"
       }
     ]
