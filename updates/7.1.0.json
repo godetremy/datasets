@@ -1,43 +1,41 @@
 {
   "version": "7.1.0",
-  "title": "Version 7.1.0",
+  "title": "Version 7.1.0-pre",
   "subtitle": "Voici un sous-titre génial !",
   "illustration": "https://i.ibb.co/XD53HRz/image.png",
   "description": "Et voici une description géniale",
   "features": [
     {
-      "title": "Nouvelle interface pour les devoirs",
-      "subtitle": "Sous-titre de fonctionnalité...",
-      "image": "https://i.ibb.co/pR6mmxg/image.png",
-      "navigation": "Homeworks",
-      "href": null,
-      "button": "Essayer !"
+      "title": "Les cours annulés sont désormais plus visibles",
+      "subtitle": "Lorsque le cours est annulé ou que le prof est absent, l’en-tête se colore en rouge",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-3.png"
     },
     {
-      "title": "Nouvelle interface pour les devoirs",
-      "subtitle": "Sous-titre de fonctionnalité...",
-      "image": "https://i.ibb.co/pR6mmxg/image.png",
-      "navigation": "Homeworks",
-      "href": null,
-      "button": "Essayer !"
+      "title": "Le widget 'prochain cours' devient plus puissant",
+      "subtitle": "Il saute les cours annulés et affiche le temps exact restant avant le prochain cours",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-4.png"
+    },
+    {
+      "title": "Un dark mode, sans même ouvrir l’app",
+      "subtitle": "Les utilisateurs d’iOS 18 profitent des nouvelles icônes sombres et tintées",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-5.png"
+    },
+    {
+      "title": "Les devoirs font peau neuve",
+      "subtitle": "Nouvelle interface fluide avec prise en charge des liens, pièces-jointes et devoirs à rendre",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-6.png"
+    },
+    {
+      "title": "Nouveau widget : Dernière note",
+      "subtitle": "Soyez le premier au courant de vos notes avec ce nouveau widget",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-7.png"
     }
   ],
   "bugfixes": [
     {
-      "title": "Nouvelle interface pour les devoirs",
-      "subtitle": "Sous-titre de fonctionnalité...",
-      "image": "https://i.ibb.co/pR6mmxg/image.png",
-      "navigation": "Homeworks",
-      "href": null,
-      "button": "Essayer !"
-    },
-    {
-      "title": "Nouvelle interface pour les devoirs",
-      "subtitle": "Sous-titre de fonctionnalité...",
-      "image": "https://i.ibb.co/pR6mmxg/image.png",
-      "navigation": "Homeworks",
-      "href": null,
-      "button": "Essayer !"
+      "title": "Meilleure stabilité sur l’emploi du temps",
+      "subtitle": "L’emploi du temps a été revu pour profiter des mises à jour de performances",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-8.png"
     }
   ]
 }
