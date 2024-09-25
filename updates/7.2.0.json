@@ -16,7 +16,7 @@
       {
         "title": "Amélioration du widget 'Prochain cours'",
         "subtitle": "Ignore les cours annulés et affiche le temps restant de manière précise",
-        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-4.png"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-4.png",
         "navigation": "Home",
         "href": null,
         "button": "Essayer"
@@ -37,7 +37,7 @@
       {
         "title": "Nouveau widget : Dernière note",
         "subtitle": "Consultez rapidement vos dernières notes directement depuis l'écran d'accueil.",
-        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-7.png"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-7.png",
         "navigation": "Home",
         "href": null,
         "button": "Essayer"
@@ -47,7 +47,7 @@
       {
         "title": "Amélioration de l'emploi du temps",
         "subtitle": "Meilleure stabilité et performances améliorées pour l'emploi du temps.",
-        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-8.png"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-8.png",
         "navigation": "Lessons",
         "href": null,
         "button": "Voir les cours"
