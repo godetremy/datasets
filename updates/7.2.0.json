@@ -3,17 +3,23 @@
     "title": "Version 7.2.0",
     "subtitle": "Découvrez les nouveautés et améliorations !",
     "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-2.png",
-    "description": "On a travaillé dur pour vous offrir une expérience toujours plus agréable.",
+    "description": "Après quelques semaines d'attente, la voici ! Intérface améliorée. Experience utilisateur approfondie. Changements visuels. Correctifs de bugs.",
     "features": [
       {
         "title": "Visibilité des cours annulés",
         "subtitle": "Les cours annulés ou profs absents sont affichés de manière plus visible.",
-        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-3.png"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-3.png",
+        "navigation": "Lessons",
+        "href": null,
+        "button": "Voir les cours"
       },
       {
         "title": "Amélioration du widget 'Prochain cours'",
         "subtitle": "Ignore les cours annulés et affiche le temps restant de manière précise",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-4.png"
+        "navigation": "Home",
+        "href": null,
+        "button": "Essayer"
       },
       {
         "title": "Dark mode automatique",
@@ -23,12 +29,18 @@
       {
         "title": "Nouvelle interface des devoirs",
         "subtitle": "Nouvelle interface fluide, qui prend en charge les liens, pièces jointes et rendus.",
-        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-6.png"
+        "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-6.png",
+        "navigation": "Homeworks",
+        "href": null,
+        "button": "Découvrir"
       },
       {
         "title": "Nouveau widget : Dernière note",
         "subtitle": "Consultez rapidement vos dernières notes directement depuis l'écran d'accueil.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-7.png"
+        "navigation": "Home",
+        "href": null,
+        "button": "Essayer"
       }
     ],
     "bugfixes": [
@@ -36,6 +48,9 @@
         "title": "Amélioration de l'emploi du temps",
         "subtitle": "Meilleure stabilité et performances améliorées pour l'emploi du temps.",
         "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.2.0-8.png"
+        "navigation": "Lessons",
+        "href": null,
+        "button": "Voir les cours"
       }
     ]
   }
