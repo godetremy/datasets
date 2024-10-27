@@ -30,9 +30,9 @@
       "title": "Papillon Magic",
       "subtitle": "Détection automatique des devoirs via analyse du contenu.",
       "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/4.png",
-      "navigation": "Magic Homeworks",
+      "navigation": "Homeworks",
       "href": null,
-      "button": "Découvrir Papillon Magic"
+      "button": "Voir les devoirs"
     }
   ],
   "bugfixes": [
