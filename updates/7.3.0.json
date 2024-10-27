@@ -39,7 +39,7 @@
     {
       "title": "Correction des notes",
       "subtitle": "Les inversions des signes (+/-) sont corrigées.",
-      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/nothing.png"
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/6.png"
     },
     {
       "title": "Emploi du temps stable",
@@ -49,7 +49,7 @@
     {
       "title": "Affichage des actualités",
       "subtitle": "Correction du message \"Aucune actualité\" répété.",
-      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/nothing.png"
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/7.png"
     }
   ]
 }
