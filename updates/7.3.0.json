@@ -1,0 +1,55 @@
+{
+  "version": "7.3.0",
+  "title": "Version 7.3",
+  "subtitle": "Découvrez les nouveautés et améliorations !",
+  "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/version.png",
+  "description": "Nouvelle interface, meilleures performances et plusieurs correctifs.",
+  "features": [
+    {
+      "title": "Cours Améliorés",
+      "subtitle": "Les cours incluent plus de détails, comme l’absence d’un professeur.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/1.png",
+      "navigation": "Lessons",
+      "href": null,
+      "button": "Voir les cours"
+    },
+    {
+      "title": "Nouvelle page d'accueil",
+      "subtitle": "Plus rapide et intuitive, avec une meilleure organisation.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/2.gif"
+    },
+    {
+      "title": "Gestion des Devoirs",
+      "subtitle": "Les devoirs complétés sont déplacés en bas de la liste.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/3.png",
+      "navigation": "Homeworks",
+      "href": null,
+      "button": "Voir les devoirs"
+    },
+    {
+      "title": "Papillon Magic",
+      "subtitle": "Détection automatique des devoirs via analyse du contenu.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/4.png",
+      "navigation": "Magic Homeworks",
+      "href": null,
+      "button": "Découvrir Papillon Magic"
+    }
+  ],
+  "bugfixes": [
+    {
+      "title": "Correction des notes",
+      "subtitle": "Les inversions des signes (+/-) sont corrigées.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/nothing.png"
+    },
+    {
+      "title": "Emploi du temps stable",
+      "subtitle": "Problèmes d'affichage et de performance corrigés.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/5.png"
+    },
+    {
+      "title": "Affichage des actualités",
+      "subtitle": "Correction du message \"Aucune actualité\" répété.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/nothing.png"
+    }
+  ]
+}
