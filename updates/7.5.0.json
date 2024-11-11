@@ -1,0 +1,11 @@
+{
+  "version": "7.5.0",
+  "title": "Version 7.5 (bêta)",
+  "subtitle": "Découvrez les nouveautés et améliorations !",
+  "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/version.png",
+  "description": "Nouvelle interface, meilleures performances et plusieurs correctifs.",
+  "features": [
+  ],
+  "bugfixes": [
+  ]
+}
