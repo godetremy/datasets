@@ -9,17 +9,11 @@
       "title": "Plus d'universités !",
       "subtitle": "De nombreux établissements du supérieur en plus sont maintenant disponibles.",
       "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/1.png",
-      "navigation": null,
-      "href": null,
-      "button": null
     },
     {
       "title": "Ultra-rapide",
       "subtitle": "Des améliorations de performances sont arrivées. L'app est plus rapide que jamais !",
       "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/2.png",
-      "navigation": null,
-      "href": null,
-      "button": null
     },
     {
       "title": "Nouvel affichage des notes",
@@ -35,9 +29,6 @@
       "title": "Nombreux bugs réparés !",
       "subtitle": "L'application est encore plus stable avec de nombreux correctifs !",
       "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/4.png",
-      "navigation": null,
-      "href": null,
-      "button": null
     },
   ]
 }
