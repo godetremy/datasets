@@ -1,11 +1,43 @@
 {
   "version": "7.5.0",
-  "title": "Version 7.5 (bêta)",
-  "subtitle": "Découvrez les nouveautés et améliorations !",
-  "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.3.0/version.png",
-  "description": "Nouvelle interface, meilleures performances et plusieurs correctifs.",
+  "title": "Version 7.5.0",
+  "subtitle": "Le plein d'énergie de fin d'année",
+  "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/version.png",
+  "description": "Pour ce nouveau trimestre, Papillon vous apporte encore plus de performances et de correctifs.",
   "features": [
+    {
+      "title": "Plus d'universités !",
+      "subtitle": "De nombreux établissements du supérieur en plus sont maintenant disponibles.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/1.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    },
+    {
+      "title": "Ultra-rapide",
+      "subtitle": "Des améliorations de performances sont arrivées. L'app est plus rapide que jamais !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/2.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    },
+    {
+      "title": "Nouvel affichage des notes",
+      "subtitle": "Les notes arrivent avec une nouvelle apparence plus discrète !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/3.png",
+      "navigation": "Grades",
+      "href": null,
+      "button": "Essayer"
+    },
   ],
   "bugfixes": [
+    {
+      "title": "Nombreux bugs réparés !",
+      "subtitle": "L'application est encore plus stable avec de nombreux correctifs !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.5.0/4.png",
+      "navigation": null,
+      "href": null,
+      "button": null
+    },
   ]
 }
