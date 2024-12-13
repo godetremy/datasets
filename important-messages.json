@@ -1,7 +1,11 @@
 {
-  "version": "7.6.0",
+  "affectedVersions": "<=7.5.0",
   "title": "Erreur des moyennes",
-  "subtitle": "Il y a actuellement des problemes de calculs de moyennes",
+  "subtitle": "Problèmes de calcul des moyennes.",
+  "description": "Cliquez ci-dessous pour signaler ou en savoir plus.",
+  "code": "AVERAGE_CALC_ERROR",
+  "type": "error",
   "closable": true,
-  "href": "https://papillon.bzh"
+  "href": "https://docs.papillon.bzh/kb/averages",
+  "buttonText": "Signaler un problème",
 }
