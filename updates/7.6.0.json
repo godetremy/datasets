@@ -1,13 +1,17 @@
 {
   "version": "7.6.0",
   "title": "Version 7.6.0",
-  "subtitle": "Le plein d'énergie de fin d'année",
-  "illustration": "",
-  "description": "",
+  "subtitle": "Bienvenue aux nouveaux arrivants !",
+  "illustration": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.6.0/version.png",
+  "description": "Vous êtes maintenant plus de 400 000 à utiliser l'application. On en a donc profiter pour améliorer deux ou trois petites choses...",
   "features": [
     
   ],
   "bugfixes": [
-    
+    {
+      "title": "Moyennes générales plus fiables",
+      "subtitle": "L'algorithme de calcul de la moyenne a été amélioré !",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.6.0/1.png"
+    }
   ]
 }
