@@ -6,13 +6,6 @@
   "description": "Vous êtes maintenant plus de 400 000 à utiliser l'application. On en a donc profité pour améliorer deux ou trois petites choses...",
   "features": [
     {
-      "title": "Améliorations de l'interface",
-      "subtitle": "De nombreux détails de l'interface ont été améliorées pour votre expérience utilisateur.",
-      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.6.0/2.png"
-    }
-  ],
-  "bugfixes": [
-    {
       "title": "Moyennes générales plus fiables",
       "subtitle": "L'algorithme de calcul de la moyenne a été amélioré !",
       "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.6.0/1.png",
@@ -20,6 +13,13 @@
       "href": null,
       "button": "Essayer"
     },
+    {
+      "title": "Améliorations de l'interface",
+      "subtitle": "De nombreux détails de l'interface ont été améliorées pour votre expérience utilisateur.",
+      "image": "https://raw.githubusercontent.com/PapillonApp/datasets/main/updates/images/7.6.0/2.png"
+    }
+  ],
+  "bugfixes": [
     {
       "title": "Plus de bugs sur la customisation",
       "subtitle": "Personnaliser ses matières devrait maintenant se comporter sans bugs.",
